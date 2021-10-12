@@ -4,6 +4,7 @@ A collection good software engineering reading material (mostly backend)
 ## Books
 
 - _Fundatmentals of Software Architecture_ by Mark Richards, Neal Ford
+  - In the latter part of the book, there is a great summary of various architecural patters/solutions; however, beware that when given hammers, everything starts looking like a nail! Proper understanding of the problem at hand should come first. 
 - _Monolith to Microservices_ by Sam Newman
 - _Team Topologies_ by Matthew Skelton and Manuel Pais
 - _Clean Code_ by Bob Martin ([summary](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29))
