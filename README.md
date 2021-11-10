@@ -14,3 +14,7 @@ A collection good software engineering reading material (mostly backend)
 - [There are no bugs, just TODOs](https://almad.blog/essays/no-bugs-just-todos/)
 - [Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html) Martin Fowler
 - [Don't do this](https://wiki.postgresql.org/wiki/Don%27t_Do_This) PostgreSQL Wiki
+
+## Papers
+
+- [Time, Clocks, and the Ordering of Events in a Distributed System](http://lamport.azurewebsites.net/pubs/time-clocks.pdf) (see [Wikipedia summary](https://en.wikipedia.org/wiki/Lamport_timestamp))
